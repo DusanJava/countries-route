@@ -1,0 +1,11 @@
+##########################
+# Countries REST Service #
+#########################
+rest:
+  config:
+    countries:
+      url: https://raw.githubusercontent.com/mledoze/countries/master/countries.json
+
+#####################
+# End of properties #
+#####################
